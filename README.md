@@ -1,4 +1,15 @@
 # NgTicTacToe
+https://www.youtube.com/watch?v=G0bBLvWXBvc&t
+
+https://github.com/fireship-io/angular-tic-tac-toe
+
+`ng new ng-tic-tac-toe --routing=true --style=scss`
+
+`ng g c square --inlineStyle=true --inlineTemplate=true`
+
+`ng g c board`
+
+`ng add @nebular/theme`
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.6.
 
