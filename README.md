@@ -1,8 +1,4 @@
 # NgTicTacToe
-https://www.youtube.com/watch?v=G0bBLvWXBvc&t
-
-https://github.com/fireship-io/angular-tic-tac-toe
-
 `ng new ng-tic-tac-toe --routing=true --style=scss`
 
 `ng g c square --inlineStyle=true --inlineTemplate=true`
@@ -10,6 +6,23 @@ https://github.com/fireship-io/angular-tic-tac-toe
 `ng g c board`
 
 `ng add @nebular/theme`
+
+`ng build --configuration=production --aot=true --watch=true|false` 
+
+`ng add @angular/pwa`
+
+`ng add @angular/fire`
+
+`ng deploy`
+
+[Project Console](https://console.firebase.google.com/project/tictactoe-16398/overview)
+
+[Hosting URL](https://tictactoe-16398.web.app)
+
+https://www.youtube.com/watch?v=G0bBLvWXBvc&t
+
+https://github.com/fireship-io/angular-tic-tac-toe
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.6.
 
